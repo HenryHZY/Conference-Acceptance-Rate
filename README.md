@@ -10,6 +10,7 @@ Statistics of acceptance rate for the main AI conferences
 |ACL'17 | 25.0% (195/751) | 18.9% (107/567) |
 |ACL'18 | 25.3% (258/1018) | 24.0% (126/526) |
 |ACL'19 | 25.7% (447/1737) | 18.2% (213/1168) |
+|ACL'20 | 25.4% (571/2244) | 17.6% (208/1185) |
 |EMNLP'14 | 30.4% (155/510) | 27.8% (70/252) |
 |EMNLP'15 | 26.2% (157/600) | 22.1% (155/700) |
 |EMNLP'16 | 25.8% (177/687) | 21.8% (87/400) |
@@ -42,8 +43,9 @@ Statistics of acceptance rate for the main AI conferences
 |ICCV'17 | 29.0% (621/2143) (45 orals, 56 spotlights and 520 posters) | - |
 |ICCV'19 | 25.0% (1077/4304) (187 short orals and 1077 posters)| - |
 |ECCV'14 | 27.9% (363/1444) (38 orals and 325 posters) | - |
-|ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights, and 342 posters) | - |
+|ECCV'16 | 26.6% (415/1561) (28 orals, 45 spotlights and 342 posters) | - |
 |ECCV'18 | 31.8% (776/2439) (59 orals and 717 posters) | - |
+|ECCV'20 | 27.1% (1361/5025) (104 orals, 161 spotlights and 1096 posters) | - |
 
 
 ### Machine Learning and Learning Theory
@@ -56,6 +58,7 @@ Statistics of acceptance rate for the main AI conferences
 |ICML'17 | 25.9% (434/1676) | - |
 |ICML'18 | 25.1% (621/2473) | - |
 |ICML'19 | 22.6% (773/3424) | - |
+|ICML'20 | 21.8% (1088/4990) | - |
 |NeurIPS'14 | 24.7% (414/1678) | - |
 |NeurIPS'15 | 21.9% (403/1838) | - |
 |NeurIPS'16 | 23.6% (569/2403) | - |
@@ -105,6 +108,7 @@ Statistics of acceptance rate for the main AI conferences
 |IJCAI'17 | 26.0% (660/2540) | - |
 |IJCAI'18 | 20.5% (710/3470) | - |
 |IJCAI'19 | 17.9% (850/4752) | - |
+|IJCAI'20 | 12.6% (592/4717) | - |
 
 ### Data Mining and Information Retrieval
 
@@ -116,12 +120,14 @@ Statistics of acceptance rate for the main AI conferences
 |KDD'17 | 17.4% (130/748) | - |
 |KDD'18 | 18.4% (181/983) (107 orals and 74 posters) | - |
 |KDD'19 | 14.2% (170/1200) (110 orals and 60 posters) | - |
+|KDD'20 | 16.9% (216/1279) | - |
 |SIGIR'14 | 21.0% (82/387) | 40.0% (104/263) |
 |SIGIR'15 | 20.0% (70/351) | 31.3% (79/252) |
 |SIGIR'16 | 18.0% (62/341) | 30.6% (104/339) |
 |SIGIR'17 | 22.0% (78/362) | 30.0% (121/398) |
 |SIGIR'18 | 21.0% (86/409) | 30.0% (98/327) |
 |SIGIR'19 | 19.7% (84/426) | 24.4% (108/443) |
+|SIGIR'20 | 26.5% (147/555) | 30.2% (153/507) |
 |TheWebConf'14 | 13.0% (84/645) | - |
 |TheWebConf'15 | 14.0% (131/929) | - |
 |TheWebConf'16 | 16.0% (115/727) | - |
@@ -142,6 +148,7 @@ Statistics of acceptance rate for the main AI conferences
 |CIKM'17 | 20.0% (171/855) | 28.4% (119/419) |
 |CIKM'18| 17.0% (147/862) | 23.2% (96/413) |
 |CIKM'19 | 19.4% (200/1030) | 21.3% (100/470) |
+|CIKM'20 | 21.0% (193/920) | - |
 |ICDM'14 | 9.8% (71/727) | 9.8% (71/727) |
 |ICDM'15 | 8.4% (68/807) | 9.7% (78/807) |
 |ICDM'16 | 8.6% (78/904) | 11.0% (100/904) |
@@ -164,11 +171,12 @@ Statistics of acceptance rate for the main AI conferences
 |INTERSPEECH'16| 50.5% (779/1541) | - |
 |INTERSPEECH'17| 52.0% (799/1582) | - |
 |INTERSPEECH'18| 54.3% (749/1320) | - |
+|INTERSPEECH'19| 49.3% (914/1855) | - |
 |ICASSP'14| 48.0% (1709/3500) | - |
 |ICASSP'15| 52.0% (1207/2322) | - |
 |ICASSP'16| 47.0% (1265/2682) | - |
 |ICASSP'17| 52.0% (1220/2518) | - |
-|ICASSP'18| 49.7% (1406/2929) | - |
+|ICASSP'18| 49.7% (1406/2829) | - |
 |ICASSP'19| 46.5% (1774/3815) | - |
 
 
